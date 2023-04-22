@@ -1,0 +1,46 @@
+   0 cd ..
+   1 cd /home/
+   2 mkdir animal
+   3 cd animal
+   4 mkdir dogs
+   5 mkdir cats
+   6 mkdir fish
+   7 cd dogs
+   8 touch pluto.txt
+   9 cd cats
+  10 cd animal/cats
+  11 cd /home/animal/cats
+  12 touch garfield.txt
+  13 cd /home/animal/fish
+  14 touch nemo.txt
+  15 cd /home/
+  16 tree
+  17 ls
+  18 cd ..
+  19 ls
+  20 cd /tmp
+  21 touch adam.txt
+  22 ls
+  23 cd /home
+  24 mkdir humans
+  25 cp /tmp/adam.txt /home/humans
+  26 tree
+  27 cd
+  28 ¬
+  29 clear
+  30 cd ..
+  31 cd /tmp
+  32 touch evA.txt
+  33 tree
+  34 cd /opt
+  35 cd /tmp
+  36 mv /tmp/evA.txt /opt/eve.txt  
+  37 cd /opt
+  38 ls
+  39 mv /opt/eve.txt /home/humans
+  40 cd /home
+  41 tree
+  42 cd
+  43 history
+  44 history > export_file  linux_hw_17_04.txt
+  45 history > history_linux_hw_17.04.txt
