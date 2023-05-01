@@ -1,0 +1,11 @@
+/   0 mkdir -p /home/animals/dogs
+   1 mkdir /home/animals/cats /home/animals/fish
+   2 tree /home/
+   3 touch /home/animals/dogs/pluto.txt /home/animals/cats/garfield.txt /home/animals/fish/nemo.txt /tmp/adam.txt /tmp/eva.txt
+   4 mkdir /home/humans && cp /tmp/adam.txt /home/humans
+   5 mv /tmp/eva.txt /opt/eve.txt
+   6 mv /opt/eve.txt /home/humans/
+   7 tree
+   8 tree /home/
+   9 clear
+  10 history > hw_17_04
