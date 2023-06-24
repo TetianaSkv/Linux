@@ -1,0 +1,8 @@
+   0 nano testscript.sh
+   1 chmod 777 testscript.sh 
+   2 ./testscript.sh 
+   3 chmod 626 testscript.sh
+   4 mv testscript.sh .testscript.sh
+   5 ls -l
+   6 ls -a
+   7 history > history_linux_hw_15.06.txt
